@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/3commas-valentines-day/static/css/main.b2369535.css",
+    "main.js": "/3commas-valentines-day/static/js/main.ed15e48b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/3commas-valentines-day/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img.png": "/3commas-valentines-day/static/media/img.6e88a813a48a688dea5e.png",
+    "static/media/Default.svg": "/3commas-valentines-day/static/media/Default.73dc9a473141cee82537.svg",
+    "static/media/Hover.svg": "/3commas-valentines-day/static/media/Hover.f1f2d61b0f026a562204.svg",
+    "static/media/Push.svg": "/3commas-valentines-day/static/media/Push.24b33b05bcbf8171a132.svg",
+    "index.html": "/3commas-valentines-day/index.html",
+    "main.b2369535.css.map": "/3commas-valentines-day/static/css/main.b2369535.css.map",
+    "main.ed15e48b.js.map": "/3commas-valentines-day/static/js/main.ed15e48b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/3commas-valentines-day/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2369535.css",
+    "static/js/main.ed15e48b.js"
+  ]
+}
