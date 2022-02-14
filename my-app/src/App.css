@@ -1,0 +1,56 @@
+html,body, #root, .App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+.App {
+  flex-direction: column;
+}
+
+textarea {
+  height: 30%;
+  margin-bottom: 20px;
+  padding: 10px;
+  position: absolute;
+  background: transparent;
+  left: 5%;
+  top: 130px;
+  width: 55%;
+  color: white;
+  font-weight: 600;
+  font-size: 40px;
+  border: none;
+  resize: none;
+}
+
+.twitterButton {
+  display: flex;
+  align-items: center;
+  width: 365px;
+  height: 90px;
+  background: url("./Default.svg") no-repeat;
+  cursor: pointer;
+  position: absolute;
+  left: 5%;
+  bottom: 100px;
+}
+
+.twitterButton:before {
+  content: url("./Default.svg");
+}
+
+.twitterButton:hover:before {
+  content: url("./Hover.svg");
+}
+
+.twitterButton:active:before {
+  content: url("./Push.svg");
+}
+
+.tweetLabel {
+  margin-left: 10px;
+}
